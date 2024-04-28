@@ -16,11 +16,13 @@
 		header {background-color:lightblue}
 		
 		/*TYPOGRAPHY*/
+		h1 {font-family: "Lato", sans-serif; font-weight: 900; font-style: normal;}
+		h2 {font-family: "Lato", sans-serif; font-weight: 900; font-style: normal; padding-top:20px; color:888;}
 		li {margin-bottom:8px;}
-		h2 {padding-top:20px;}
+		
 		
 		header h1 {margin-bottom:0;}
-		header h2 {margin-top:0; padding-top:0; font-style:italic;}
+		header h2 {font-family:times, serif;margin-top:0; padding-top:0; font-style:italic; font-weight:normal; font-size:20px;}
 		#content ul {list-style-type:none; padding:0;}
 		#contact li {display:inline;}
 		#contact span {padding:0 10px;}
